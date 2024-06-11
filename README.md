@@ -25,3 +25,15 @@ This Vue component, `VideoPlayer`, is designed to handle both HTML5 and YouTube 
 
 1. Import the component into your Vue project.
 2. Pass the necessary props to the component.
+
+
+## Previews
+
+### Thumbnail Preview
+![Thumbnail Preview](https://github.com/AroshaRavishan/-Video-Player-and-scroll-mini-videoplayer-Vue/blob/main/Thumbnail%20preview.png)
+
+### YouTube Video Player Preview
+![YouTube Video Player Preview](https://github.com/AroshaRavishan/-Video-Player-and-scroll-mini-videoplayer-Vue/blob/main/You%20tube%20video%20player%20preview.png)
+
+### Mini Player Preview
+![Mini Player Preview](https://github.com/AroshaRavishan/-Video-Player-and-scroll-mini-videoplayer-Vue/blob/main/mini%20player.png)
